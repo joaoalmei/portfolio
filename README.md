@@ -1,7 +1,7 @@
 # João Almei — Portfólio de Desenvolvedor
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/joaoalmei/portfolio/main/assets/preview.png" alt="Preview do Portfólio" width="700" />
+  <img src="/assets/modeflow.gif" alt="Preview do Portfólio" width="700" />
 </p>
 
 ---
@@ -43,9 +43,9 @@ O design segue uma linha minimalista e moderna, com **modo claro e escuro**, gar
 ## 🎨 Demonstração
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/joaoalmei/portfolio/main/assets/lightmode-portfolio.gif" alt="Light Mode GIF" width="300"/>
-  <img src="https://raw.githubusercontent.com/joaoalmei/portfolio/main/assets/darkmode-portfolio.gif" alt="Dark Mode GIF" width="300"/>
-  <img src="https://raw.githubusercontent.com/joaoalmei/portfolio/main/assets/modeflow.gif" alt="Mode Flow GIF" width="300"/>
+  <img src="/assets/lightmode-portfolio.gif" alt="Light Mode GIF" width="300"/>
+  <img src="/assets/darkmode-portfolio.gif" alt="Dark Mode GIF" width="300"/>
+  <img src="/assets/modeflow.gif" alt="Mode Flow GIF" width="300"/>
 </div>
 
 ---
