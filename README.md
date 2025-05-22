@@ -1,4 +1,4 @@
-# João Almei — Portfólio de Desenvolvedor
+# Portfólio de Desenvolvedor
 
 <p align="center">
   <img src="/assets/preview.png" alt="Preview do Portfólio" width="700" />
