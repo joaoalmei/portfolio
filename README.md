@@ -43,10 +43,11 @@ O design segue uma linha minimalista e moderna, com **modo claro e escuro**, gar
 ## 🎨 Demonstração
 
 <div align="center">
-  <img src="/assets/lightmodeportfolio.gif" alt="Light Mode GIF" width="300"/>
-  <img src="/assets/darkmodeportfolio.gif" alt="Dark Mode GIF" width="300"/>
-  <img src="/assets/modeflow.gif" alt="Mode Flow GIF" width="300"/>
+  <img src="/assets/lightmodeportfolio.gif" alt="Light Mode GIF" width="400" style="margin: 10px;"/>
+  <img src="/assets/darkmodeportfolio.gif" alt="Dark Mode GIF" width="400" style="margin: 10px;"/>
+  <img src="/assets/modeflow.gif" alt="Mode Flow GIF" width="400" style="margin: 10px;"/>
 </div>
+
 
 ---
 
