@@ -19,6 +19,16 @@ O design segue uma linha minimalista e moderna, com modo claro e escuro, para me
 
 ---
 
+## 🖼️ Demonstração em GIF
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/joaoalmei/portfolio/main/assets/LightMode%20-%20Portf%C3%B3lio.gif" alt="Light Mode GIF" width="300"/>
+  <img src="https://raw.githubusercontent.com/joaoalmei/portfolio/main/assets/DarkMode%20-%20Portf%C3%B3lio.gif" alt="Dark Mode GIF" width="300"/>
+  <img src="https://raw.githubusercontent.com/joaoalmei/portfolio/main/assets/ModeFlow.gif" alt="Mode Flow GIF" width="300"/>
+</div>
+
+---
+
 ## 🛠 Tecnologias Utilizadas
 
 - HTML5, CSS3 (com animações e modo dark/light)
