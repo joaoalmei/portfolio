@@ -55,8 +55,6 @@ O aplicativo busca proporcionar uma experiência de viagem mais **fluida e sem c
 ## 🎞️ Demonstração
 
 <div align="center">
-  <img src="/assets/white.gif" alt="Light Mode GIF" width="450" style="margin: 20px;"/>
-  <img src="/assets/black.gif.gif" alt="Dark Mode GIF" width="450" style="margin: 20px;"/>
   <img src="/assets/giftransicao.gif" alt="Mode Flow GIF" width="450" style="margin: 20px;"/>
 </div>
 
