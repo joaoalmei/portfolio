@@ -1,4 +1,4 @@
-# 🚀 João Almei — Portfólio de Desenvolvedor
+# 🧑‍💻 João Almei — Portfólio de Desenvolvedor
 
 <p align="center">
   <img src="/assets/preview.png" alt="Preview do Portfólio" width="700" />
@@ -53,7 +53,7 @@ O aplicativo busca proporcionar uma experiência de viagem mais **fluida e sem c
 
 ---
 
-## 🎨 Demonstração
+## 🎞️ Demonstração
 
 <div align="center">
   <img src="/assets/lightmodeportfolio.gif" alt="Light Mode GIF" width="450" style="margin: 20px;"/>
@@ -80,6 +80,3 @@ Se quiser conversar sobre **oportunidades**, **parcerias** ou **projetos** — o
 
 ---
 
-<p align="center">
-  <em>Feito com ❤️ por João Almei</em>
-</p>
