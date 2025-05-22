@@ -1,13 +1,13 @@
 # João Almei — Portfólio de Desenvolvedor
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/joaoalmei/portfolio/main/assets/portfolio-preview.png" alt="Preview do Portfólio" width="700" />
+  <img src="https://raw.githubusercontent.com/joaoalmei/portfolio/main/assets/preview.png" alt="Preview do Portfólio" width="700" />
 </p>
 
 ---
 
 ### Olá! Eu sou o João Almei 👋  
-Sou desenvolvedor apaixonado por criar soluções que unem código limpo, design minimalista e boa experiência para o usuário.  
+Sou desenvolvedor apaixonado por criar soluções que unem código limpo, design minimalista e uma ótima experiência para o usuário.  
 Neste portfólio, você encontrará meus principais projetos, habilidades técnicas e formas de contato.
 
 ---
@@ -15,17 +15,7 @@ Neste portfólio, você encontrará meus principais projetos, habilidades técni
 ## 🚀 Sobre o Portfólio
 
 Este site foi desenvolvido para apresentar de forma simples e elegante meus trabalhos e habilidades em desenvolvimento web e software.  
-O design segue uma linha minimalista e moderna, com modo claro e escuro, para melhor usabilidade.
-
----
-
-## 🖼️ Demonstração em GIF
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/joaoalmei/portfolio/main/assets/LightMode%20-%20Portf%C3%B3lio.gif" alt="Light Mode GIF" width="300"/>
-  <img src="https://raw.githubusercontent.com/joaoalmei/portfolio/main/assets/DarkMode%20-%20Portf%C3%B3lio.gif" alt="Dark Mode GIF" width="300"/>
-  <img src="https://raw.githubusercontent.com/joaoalmei/portfolio/main/assets/ModeFlow.gif" alt="Mode Flow GIF" width="300"/>
-</div>
+O design segue uma linha minimalista e moderna, com **modo claro e escuro**, garantindo uma melhor usabilidade.
 
 ---
 
@@ -50,11 +40,12 @@ O design segue uma linha minimalista e moderna, com modo claro e escuro, para me
 
 ---
 
-## 🎨 Screenshots
+## 🎨 Demonstração
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/joaoalmei/portfolio/main/assets/project1-screenshot.png" alt="Screenshot Projeto 1" width="350" />
-  <img src="https://raw.githubusercontent.com/joaoalmei/portfolio/main/assets/project2-screenshot.png" alt="Screenshot Projeto 2" width="350" />
+  <img src="https://raw.githubusercontent.com/joaoalmei/portfolio/main/assets/lightmode-portfolio.gif" alt="Light Mode GIF" width="300"/>
+  <img src="https://raw.githubusercontent.com/joaoalmei/portfolio/main/assets/darkmode-portfolio.gif" alt="Dark Mode GIF" width="300"/>
+  <img src="https://raw.githubusercontent.com/joaoalmei/portfolio/main/assets/modeflow.gif" alt="Mode Flow GIF" width="300"/>
 </div>
 
 ---
@@ -73,7 +64,7 @@ Se quiser conversar sobre oportunidades, projetos ou só dar um oi, estou dispon
 
 - Gosto de unir lógica e criatividade para resolver problemas reais.  
 - Estou sempre aprendendo novas tecnologias e técnicas.  
-- Meu lema: código limpo, funcional e com estilo.
+- Meu lema: **código limpo, funcional e com estilo**.
 
 ---
 
