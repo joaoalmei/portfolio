@@ -4,7 +4,7 @@
   <img src="/assets/black.gif" alt="Preview do Portfólio" width="700" />
 </p>
 
-🔗 [Acesse o portfolio] (https://joaoalmei.github.io/portfolio/)
+🔗 [Acesse o portfolio](https://joaoalmei.github.io/portfolio/)
 
 ---
 
