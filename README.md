@@ -66,8 +66,4 @@ Se quiser conversar sobre oportunidades, projetos ou só dar um oi, estou dispon
 - Estou sempre aprendendo novas tecnologias e técnicas.  
 - Meu lema: **código limpo, funcional e com estilo**.
 
----
-
-<p align="center">
-  <em>Feito com ❤️ por João Almei</em>
-</p>
+--- 
