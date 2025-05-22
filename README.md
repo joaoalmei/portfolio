@@ -6,20 +6,20 @@
 
 ---
 
-### Olá! Eu sou o João Almei 👋  
+### Olá! Eu sou o João Vitor Jorge Almei</da>  
 Sou desenvolvedor apaixonado por criar soluções que unem código limpo, design minimalista e uma ótima experiência para o usuário.  
 Neste portfólio, você encontrará meus principais projetos, habilidades técnicas e formas de contato.
 
 ---
 
-## 🚀 Sobre o Portfólio
+## Sobre o Portfólio
 
 Este site foi desenvolvido para apresentar de forma simples e elegante meus trabalhos e habilidades em desenvolvimento web e software.  
 O design segue uma linha minimalista e moderna, com **modo claro e escuro**, garantindo uma melhor usabilidade.
 
 ---
 
-## 🛠 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - HTML5, CSS3 (com animações e modo dark/light)
 - JavaScript (ES6+)
@@ -29,7 +29,7 @@ O design segue uma linha minimalista e moderna, com **modo claro e escuro**, gar
 
 ---
 
-## 💼 Projetos em Destaque
+## Projetos em Destaque
 
 | Projeto | Descrição | Link |
 |---------|-----------|------|
@@ -40,7 +40,7 @@ O design segue uma linha minimalista e moderna, com **modo claro e escuro**, gar
 
 ---
 
-## 🎨 Demonstração
+## Demonstração
 
 <div align="center">
   <img src="/assets/lightmodeportfolio.gif" alt="Light Mode GIF" width="400" style="margin: 10px;"/>
@@ -53,7 +53,7 @@ O design segue uma linha minimalista e moderna, com **modo claro e escuro**, gar
 
 ## 📫 Contato
 
-Se quiser conversar sobre oportunidades, projetos ou só dar um oi, estou disponível em:
+Se quiser conversar sobre oportunidades, sejam elas com ou sem fins lucrativos, projetos ou só dar um oi, estou disponível em:
 
 - **LinkedIn:** [linkedin.com/in/joaoalmei](https://linkedin.com/in/joaoalmei)
 - **GitHub:** [github.com/joaoalmei](https://github.com/joaoalmei)
@@ -65,6 +65,6 @@ Se quiser conversar sobre oportunidades, projetos ou só dar um oi, estou dispon
 
 - Gosto de unir lógica e criatividade para resolver problemas reais.  
 - Estou sempre aprendendo novas tecnologias e técnicas.  
-- Meu lema: **código limpo, funcional e com estilo**.
+
 
 --- 
