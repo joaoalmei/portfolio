@@ -1,7 +1,7 @@
 # 🧑‍💻 João Almei — Portfólio de Desenvolvedor
 
 <p align="center">
-  <img src="/assets/preview.gif" alt="Preview do Portfólio" width="700" />
+  <img src="/assets/black.gif" alt="Preview do Portfólio" width="700" />
 </p>
 
 ---
