@@ -17,7 +17,7 @@ O design segue uma linha **minimalista e moderna**, com **modo claro e escuro**,
 
 - **HTML5** e **CSS3** (animações, transições e modo dark/light)
 - **JavaScript (ES6+)**
-- **Git** & **GitHub** para versionamento
+- **Git** & **GitHub** (para versionamento)
 - **Figma** (para prototipação e imagens)
 
 ---
