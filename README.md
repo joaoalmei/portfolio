@@ -57,14 +57,6 @@ O aplicativo busca proporcionar uma experiência de viagem mais **fluida e sem c
 
 ---
 
-## 🎞️ Demonstração
-
-<div align="center">
-  <img src="/assets/giftransicao.gif" alt="" width="450" style="margin: 20px;"/>
-</div>
-
----
-
 ## 📬 Contato
 
 Se quiser conversar sobre **oportunidades**, **parcerias** ou **projetos** — ou simplesmente trocar uma ideia —, me chama:
@@ -82,3 +74,4 @@ Se quiser conversar sobre **oportunidades**, **parcerias** ou **projetos** — o
 
 ---
 
+ 
