@@ -3,6 +3,8 @@
 Este site foi desenvolvido para apresentar de forma objetiva e elegante meus principais trabalhos, habilidades técnicas e minha identidade como desenvolvedor.  
 O design segue uma linha **minimalista e moderna**, com **modo claro e escuro**, priorizando **usabilidade** e **experiência do usuário**.
 
+🔗 [Acesse meu portfólio](https://joaoalmei.github.io/portfolio/)
+
 ---
 
 ## 🛠️ Tecnologias Utilizadas
