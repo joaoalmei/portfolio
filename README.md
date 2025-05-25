@@ -14,18 +14,18 @@ O design segue uma linha **minimalista e moderna**, com **modo claro e escuro**,
 
 ---
 
-## Demonstração
+## 📷 Demonstração
 
- <p align="center">
-  <img src="./assets/desktop_black.png" alt="Preview do Portfólio" width="350" />
-</p>
-<p align="center">
-  <img src="./assets/desktop_white.png" alt="Preview do Portfólio" width="350" />
-</p>
-<p align="center">
-  <img src="./assets/mobile_black.jpg" alt="Preview do Portfólio" width="350" />
-</p>
-<p align="center">
-  <img src="./assets/mobile_white.jpg" alt="Preview do Portfólio" width="350" />
-</p>
+<div align="center">
+
+  <img src="./assets/desktop_black.png" alt="Preview Desktop - Modo Escuro" width="350" style="margin: 10px;" />
+  <img src="./assets/desktop_white.png" alt="Preview Desktop - Modo Claro" width="350" style="margin: 10px;" />
+
+  <br>
+
+  <img src="./assets/mobile_black.jpg" alt="Preview Mobile - Modo Escuro" width="170" style="margin: 10px;" />
+  <img src="./assets/mobile_white.jpg" alt="Preview Mobile - Modo Claro" width="170" style="margin: 10px;" />
+
+</div>
+
 
