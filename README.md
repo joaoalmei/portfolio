@@ -1,7 +1,10 @@
 # 🧑‍💻 João Almei — Portfólio de Desenvolvedor
 
 <p align="center">
-  <img src="/assets/black.gif" alt="Preview do Portfólio" width="700" />
+  <img src="/assets/desktop_black.png" alt="Preview do Portfólio" width="700" />
+</p>
+<p align="center">
+  <img src="/assets/desktop_white.png" alt="Preview do Portfólio" width="700" />
 </p>
 
 🔗 [Acesse o portfolio](https://joaoalmei.github.io/portfolio/)
@@ -57,7 +60,7 @@ O aplicativo busca proporcionar uma experiência de viagem mais **fluida e sem c
 ## 🎞️ Demonstração
 
 <div align="center">
-  <img src="/assets/giftransicao.gif" alt="Mode Flow GIF" width="450" style="margin: 20px;"/>
+  <img src="/assets/giftransicao.gif" alt="" width="450" style="margin: 20px;"/>
 </div>
 
 ---
