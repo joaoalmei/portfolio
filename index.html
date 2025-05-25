@@ -5,138 +5,146 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>João Almeida | Dev</title>
-  <link rel="icon" href="./assets/codigo-html.png" type="image/x-icon" />
-  <link href="https://cdnjs.cloudflare.com/ajax/libs/firacode/6.2.0/fira_code.css" rel="stylesheet" />
-  <link href="https://fonts.googleapis.com/css2?family=Fira+Code&display=swap" rel="stylesheet" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="css/style.css" />
-  <style>
-    html {
-      scroll-behavior: smooth;
-    }
-  </style>
 </head>
 
 <body>
   <header>
-    <nav class="nav">
-      <div class="logo">
-        <span class="logo-icon">&lt;/&gt;</span> João Almeida
-      </div>
-      <div class="links">
-        <a href="#home">Início</a>
-        <a href="#about">Sobre</a>
-        <a href="#projects">Projetos</a>
-        <a href="#contact">Contato</a>
-        <a href="./assets/curriculo_DEV.pdf" class="btn-cv" target="_blank" rel="noopener noreferrer">CV</a>
-        <button id="theme-toggle" aria-label="" title="" class="theme-text-btn"></button>
-      </div>
+    <h1>João Almeida</h1>
+
+    <div class="header-actions">
+      <button id="toggleThemeBtn" class="toggle-theme-btn" aria-label="Alternar tema" aria-pressed="false"
+        type="button">
+        <svg id="icon-sun" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" stroke="currentColor"
+          stroke-width="2" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 24 24" aria-hidden="true"
+          focusable="false">
+          <circle cx="12" cy="12" r="5" />
+          <line x1="12" y1="1" x2="12" y2="3" />
+          <line x1="12" y1="21" x2="12" y2="23" />
+          <line x1="4.22" y1="4.22" x2="5.64" y2="5.64" />
+          <line x1="18.36" y1="18.36" x2="19.78" y2="19.78" />
+          <line x1="1" y1="12" x2="3" y2="12" />
+          <line x1="21" y1="12" x2="23" y2="12" />
+          <line x1="4.22" y1="19.78" x2="5.64" y2="18.36" />
+          <line x1="18.36" y1="5.64" x2="19.78" y2="4.22" />
+        </svg>
+
+        <svg id="icon-moon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" stroke="currentColor"
+          stroke-width="2" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 24 24" aria-hidden="true"
+          focusable="false" style="display:none">
+          <path d="M21 12.79A9 9 0 0111.21 3 7 7 0 0012 21a9 9 0 009-8.21z" />
+        </svg>
+      </button>
+
+      <button class="hamburger" aria-label="Abrir menu" aria-expanded="false" aria-controls="menu-principal">
+        ☰
+      </button>
+    </div>
+
+    <nav id="menu-principal" aria-label="Menu principal">
+      <a href="#sobre">Sobre</a>
+      <a href="#tecnologias">Tecnologias</a>
+      <a href="#projetos">Projetos</a>
+      <a href="#footer-contato">Contato</a>
+      <a href="./assets/curriculo_DEV.pdf" target="_blank" rel="noopener noreferrer"
+        aria-label="Abrir currículo de João Almeida em nova aba" class="download-cv-link">Download CV</a>
     </nav>
   </header>
 
   <main>
-    <section id="home" class="section fade-in">
-      <h1 id="animated-title" class="animated-title"></h1>
-      <p id="subtitle" class="subtitle"></p>
-    </section>
-
-    <section id="about" class="section fade-in">
-      <h2>Sobre Mim</h2>
-      <p>Sou estudante de Análise e Desenvolvimento de Sistemas na PUC Minas, com vivência no desenvolvimento e
-        manutenção de sistemas internos, especialmente em ambientes hospitalares.</p>
-      <p>Tenho experiência prática com as seguintes linguagens, frameworks e ferramentas:</p>
-      <div class="tech-stack">
-        <span class="tag">C#</span>
-        <span class="tag">.NET</span>
-        <span class="tag">PL/SQL</span>
-        <span class="tag">React</span>
-        <span class="tag">JavaScript (ES6+)</span>
-        <span class="tag">TypeScript</span>
-        <span class="tag">HTML5 & CSS3</span>
-        <span class="tag">Git & GitHub</span>
-        <span class="tag">Figma</span>
-      </div>
-    </section>
-
-    <section id="projects" class="section fade-in">
-      <h2>Projetos</h2>
-      <div class="project-list">
-        <div class="project">
-          <h3>The Office</h3>
-          <p>
-            The Office é um sistema de gestão de recursos humanos projetado para centralizar e otimizar
-            processos do setor, como controle de ponto, solicitação de férias, acesso a holerites e visualização do
-            organograma da empresa.
-            O sistema melhora a eficiência, transparência e comunicação interna, atendendo tanto às necessidades dos
-            gestores — que ganham uma visão integrada e simplificada — quanto dos funcionários, que podem gerenciar suas
-            informações de forma autônoma e intuitiva.
-          </p>
-          <p><a href="https://github.com/joaoalmei/pmv-ads-2024-2-e4-proj-infra-t5-the-office-1" target="_blank"
-              rel="noopener noreferrer">Repositório no GitHub</a></p>
+    <section id="sobre" class="fade-in" tabindex="-1" aria-labelledby="sobre-title">
+      <div class="sobre-container">
+        <div class="foto-container" aria-label="Foto de João Almeida" tabindex="0">
+          <img src="assets/profile.jpg" alt="Foto profissional de João Almeida" />
         </div>
-        <div class="project">
-          <h3>Roteiriza</h3>
+        <div class="sobre-texto">
+          <h2 id="sobre-title">Sobre Mim</h2>
           <p>
-            O Roteiriza é um aplicativo inovador que visa simplificar e otimizar o planejamento de viagens para
-            brasileiros, surgindo como uma solução para quem enfrenta dificuldades na organização de suas viagens.
-            Com uma interface intuitiva e acessível, o Roteiriza permite elaborar roteiros detalhados, abrangendo
-            desde orçamento até atividades a serem realizadas.
-            O aplicativo busca proporcionar uma experiência de viagem mais fluida e sem contratempos, oferecendo um
-            ambiente pessoal de organização, com integração de gastos, hospedagens, passagens e mala de viagem —
-            tudo de forma acessível e descomplicada.
+            Sou estudante de Análise e Desenvolvimento de Sistemas na PUC Minas, com experiência prática em ambientes
+            hospitalares, atuando com suporte técnico e desenvolvimento de sistemas internos. Atualmente, foco na
+            criação
+            de soluções web, priorizando usabilidade, design e experiência do usuário como freelancer.
           </p>
-          <p><a href="https://github.com/joaoalmei/pmv-ads-2024-1-e3-proj-mov-t7-roteiriza" target="_blank"
-              rel="noopener noreferrer">Repositório no GitHub</a></p>
-        </div>
-        <div class="project">
-          <h3>Planty</h3>
-          <p>
-            O Planty é um site dedicado a fornecer orientações fundamentais para o cultivo de plantas. Nossa missão
-            é oferecer aos usuários uma plataforma confiável e de fácil navegação, onde tanto iniciantes quanto
-            entusiastas experientes possam encontrar tudo o que precisam para cultivar com sucesso.
-          </p>
-          <p><a
-              href="https://github.com/joaoalmei/pmv-ads-2023-1-e1-proj-web-t1-projeto-cultivo-de-plantas?tab=readme-ov-file"
-              target="_blank" rel="noopener noreferrer">Repositório no GitHub</a></p>
-        </div>
-        <div class="project">
-          <h3>Match Game</h3>
-          <p>
-            O Match Game soluciona os problemas dos gamers em relação à escolha de jogos. A aplicação tem como
-            objetivo ajudar os jogadores a descobrirem novos jogos com base em suas preferências pessoais, como gênero e
-            estilo.
-            Nosso algoritmo analisa as respostas dos usuários e recomenda jogos compatíveis com seus gostos, ampliando a
-            descoberta de novos títulos. Além disso, o usuário pode criar sua biblioteca pessoal com seus jogos
-            favoritos, facilitando o acesso futuro.
-          </p>
-          <p><a href="https://github.com/joaoalmei/pmv-ads-2023-2-e2-proj-int-t2-match-game" target="_blank"
-              rel="noopener noreferrer">Repositório no GitHub</a></p>
         </div>
       </div>
     </section>
 
-    <section id="contact" class="section fade-in">
-      <h2>Contato</h2>
-      <p>
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" width="20" height="20" />
-        <a href="mailto:joaoalmei.dev@gmail.com">joaoalmei.dev@gmail.com</a>
-      </p>
-      <p>
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="20" height="20" />
-        <a href="https://github.com/joaoalmei" target="_blank" rel="noopener noreferrer">github.com/joaoalmei</a>
-      </p>
-      <p>
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="20"
-          height="20" />
-        <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-almeida-059486218/" target="_blank"
-          rel="noopener noreferrer">
-          linkedin.com/in/joaoalmei
-        </a>
-      </p>
+    <section id="tecnologias" class="fade-in" tabindex="-1" aria-labelledby="tecnologias-title">
+      <h2 id="tecnologias-title">Tecnologias &amp; Linguagens</h2>
+      <div class="tech-tags" aria-label="Lista de tecnologias">
+        <span class="tech-tag" title="C#">C#</span>
+        <span class="tech-tag" title="PL/SQL">PL/SQL</span>
+        <span class="tech-tag" title=".NET">.NET</span>
+        <span class="tech-tag" title="React">React</span>
+        <span class="tech-tag" title="JavaScript">JavaScript</span>
+        <span class="tech-tag" title="TypeScript">TypeScript</span>
+        <span class="tech-tag" title="HTML5">HTML5</span>
+        <span class="tech-tag" title="CSS3">CSS3</span>
+        <span class="tech-tag" title="Git &amp; GitHub">Git</span>
+        <span class="tech-tag" title="Figma">Figma</span>
+      </div>
+    </section>
+
+    <section id="projetos" class="fade-in" tabindex="-1" aria-labelledby="projetos-title">
+      <h2 id="projetos-title">Projetos</h2>
+
+      <article class="projeto-card" tabindex="0" aria-labelledby="matchgame-title" role="region">
+        <h3 id="matchgame-title">Match Game</h3>
+        <p>
+          Soluciona os problemas dos gamers na escolha de jogos, ajudando a
+          descobrir títulos com base nas preferências.
+        </p>
+        <a href="https://github.com/joaoalmei/pmv-ads-2023-2-e2-proj-int-t2-match-game" target="_blank" rel="noopener"
+          aria-label="Ver projeto Match Game no GitHub">Ver Projeto</a>
+      </article>
+
+      <article class="projeto-card" tabindex="0" aria-labelledby="planty-title" role="region">
+        <h3 id="planty-title">Planty</h3>
+        <p>
+          Plataforma confiável para cultivo de plantas, com orientações para
+          iniciantes e entusiastas.
+        </p>
+        <a href="https://github.com/joaoalmei/pmv-ads-2023-1-e1-proj-web-t1-projeto-cultivo-de-plantas" target="_blank"
+          rel="noopener" aria-label="Ver projeto Planty no GitHub">Ver Projeto</a>
+      </article>
+
+      <article class="projeto-card" tabindex="0" aria-labelledby="theoffice-title" role="region">
+        <h3 id="theoffice-title">The Office</h3>
+        <p>
+          Sistema de gestão de RH que centraliza processos como controle de
+          ponto, férias e holerites.
+        </p>
+        <a href="https://github.com/joaoalmei/pmv-ads-2024-2-e4-proj-infra-t5-the-office-1" target="_blank"
+          rel="noopener" aria-label="Ver projeto The Office no GitHub">Ver Projeto</a>
+      </article>
+
+      <article class="projeto-card" tabindex="0" aria-labelledby="roteiriza-title" role="region">
+        <h3 id="roteiriza-title">Roteiriza</h3>
+        <p>
+          Aplicativo para planejamento de viagens com roteiros detalhados e
+          integração de gastos e reservas.
+        </p>
+        <a href="https://github.com/joaoalmei/pmv-ads-2024-1-e3-proj-mov-t7-roteiriza" target="_blank" rel="noopener"
+          aria-label="Ver projeto Roteiriza no GitHub">Ver Projeto</a>
+      </article>
     </section>
   </main>
 
-  <footer>
-    <p>&copy; 2025 João Almeida. Todos os direitos reservados.</p>
+  <footer id="footer-contato" class="fade-in" tabindex="-1" aria-labelledby="footer-contato-title">
+    <h2 id="footer-contato-title">Contato</h2>
+    <p>Quer trocar uma ideia, falar sobre projetos ou oportunidades? Me chama nas redes:</p>
+    <nav class="contato-links" aria-label="Redes sociais e contato">
+      <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-almeida-059486218/" target="_blank" rel="noopener"
+        class="contato-link" aria-label="LinkedIn de João Almeida">LinkedIn</a>
+      <a href="https://github.com/joaoalmei" target="_blank" rel="noopener" class="contato-link"
+        aria-label="GitHub de João Almeida">GitHub</a>
+      <a href="mailto:joao.vital.almeida@gmail.com" class="contato-link"
+        aria-label="Enviar e-mail para João Almeida">Email</a>
+    </nav>
+    <p>© 2025 João Almeida. Conteúdo protegido por direitos autorais.</p>
   </footer>
 
   <script src="js/script.js"></script>
