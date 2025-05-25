@@ -1,10 +1,10 @@
-# 🧑‍💻 João Almei — Portfólio de Desenvolvedor
+# 🧑‍💻 João Almeida — Portfólio de Desenvolvedor
 
 <p align="center">
-  <img src="/assets/desktop_black.png" alt="Preview do Portfólio" width="700" />
+  <img src="./assets/desktop_black.png" alt="Preview do Portfólio" width="700" />
 </p>
 <p align="center">
-  <img src="/assets/desktop_white.png" alt="Preview do Portfólio" width="700" />
+  <img src="./assets/desktop_white.png" alt="Preview do Portfólio" width="700" />
 </p>
 
 🔗 [Acesse o portfolio](https://joaoalmei.github.io/portfolio/)
